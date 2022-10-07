@@ -1,13 +1,13 @@
 
-#test
-  this is a test
+# README Generator
+  For Challange 9, we had to create a README generator.
 
 
   [See deployed version here.]({$dat,url})
 
   ---
 
-  ## Contents
+  ## Content:
   
   1. [About](#about)
     1. [User Story](#user%story)
@@ -24,7 +24,7 @@
 
 ## About:
 
-  this is a test 
+  We had to create a README Generator. This makes it mush easier t creat a README file for my work as all the questions are already pre created for each section of the file.
 
 ---
 
@@ -46,11 +46,11 @@
 
 ## Installation:
 
-  clone repo
+  https://github.com/Mariana21hch/READMEgenerator
 
     Clone the repo:
 
-      git clone github
+      git clone https://github.com/Mariana21hch/READMEgenerator
 
 ---
 
@@ -63,13 +63,13 @@
 
 ## Test:
 
-  none
+  N/A
 
 ---
 
 ## Authors and Acknowlegements:
 
-  TestNAme
+  Mariana
 
 ---
 

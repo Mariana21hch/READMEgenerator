@@ -9,7 +9,7 @@ function generateMarkdown(data){
 
   ---
 
-  ## Contents
+  ## Content:
   
   1. [About](#about)
     1. [User Story](#user%story)
@@ -17,9 +17,9 @@ function generateMarkdown(data){
     3. [Visuals](#visuals)
     4. [Build](#build)
   2. [Installation](#installtion)
-  3.[License](#license)
-  4.[Contibuting](#contribution)
-  5.[Test](#test)
+  3. [License](#license)
+  4. [Contibuting](#contribution)
+  5. [Test](#test)
   6. [Authors and Acknowlegement](#authors%20and%20acknowlegemnt)
 
 ---
