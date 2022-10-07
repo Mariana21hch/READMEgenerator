@@ -35,14 +35,14 @@
 
 ## Acceptance Criteria:
 
+![critreria](./images/critiria_snip.PNG)
 
----
+## Visual:
 
-## Visuals:
+![terminal](./images/snip.PNG)
+![README_1](./images/README_snip_1.PNG)
+![README_2](./images/README_snip_2.PNG)
 
-    ![snip](images/snip.PNG)
-    ![README Sample 1](images/README_snip_1.PNG)'
-    ![README Sample 2](images/README_snip_2.PNG)
 ---
 
 ## Installation:
@@ -70,11 +70,11 @@
 
 ## Authors and Acknowlegements:
 
-  Mariana
+ https://drive.google.com/file/d/14-cH3FD4I-N8G_5YSVYspv0AsnqvWZ6-/view
 
 ---
 
 ## Contact Information:
 
-  GitHub Username: undefined
-  Github Email: undefined
+  GitHub Username: Mariana21hch
+  Github Email: mariana21hch@gmail.com
