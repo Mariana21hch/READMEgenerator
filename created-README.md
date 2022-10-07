@@ -1,8 +1,6 @@
-// function to generate markdown for ReadME
-function generateMarkdown(data){
-  return `
-#${data.title}
-  ${data.description}
+
+#test
+  this is a test
 
 
   [See deployed version here.]({$dat,url})
@@ -26,7 +24,7 @@ function generateMarkdown(data){
 
 ## About:
 
-  ${data.about}
+  this is a test 
 
 ---
 
@@ -48,39 +46,35 @@ function generateMarkdown(data){
 
 ## Installation:
 
-  ${data.installation}
+  clone repo
 
     Clone the repo:
 
-      git clone ${data.clone}
+      git clone github
 
 ---
 
 ## License
 
-  License for this project - ${data.license}
+  License for this project - undefined
 
 ## Contributing: 
 
 
 ## Test:
 
-  ${data.test}
+  none
 
 ---
 
 ## Authors and Acknowlegements:
 
-  ${data.author}
+  TestNAme
 
 ---
 
 ## Contact Information:
 
-  GitHub Username: ${data.userName}
-  Github Email: ${data.userEmail}
+  GitHub Username: undefined
+  Github Email: undefined
 
-`;
-}
-
-module.exports = generateMarkdown;

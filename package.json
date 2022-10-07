@@ -9,11 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "inquire": "^0.4.8",
     "inquirer": "^6.3.1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mariana21hch/READMEgenerator.git"
   },
-    "homepage": ""
+  "homepage": "https://github.com/Mariana21hch/READMEgenerator/blob/main/README.md"
 }

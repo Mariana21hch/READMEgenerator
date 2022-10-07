@@ -1,5 +1,5 @@
 // Array of questions for the user
-cosnt question = [
+const questions = [
     {
         type: "input",
         message: "what is the title of the project?",
