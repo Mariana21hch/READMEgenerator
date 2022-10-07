@@ -1,6 +1,6 @@
 
-# README Generator
-  For Challange 9, we had to create a README generator.
+#Test Project
+  Test README
 
 
   [See deployed version here.]({$dat,url})
@@ -15,16 +15,16 @@
     3. [Visuals](#visuals)
     4. [Build](#build)
   2. [Installation](#installtion)
-  3.[License](#license)
-  4.[Contibuting](#contribution)
-  5.[Test](#test)
+  3. [License](#license)
+  4. [Contibuting](#contribution)
+  5. [Test](#test)
   6. [Authors and Acknowlegement](#authors%20and%20acknowlegemnt)
 
 ---
 
 ## About:
 
-  We had to create a README Generator. This makes it mush easier t creat a README file for my work as all the questions are already pre created for each section of the file.
+  This is a Test
 
 ---
 
@@ -46,11 +46,11 @@
 
 ## Installation:
 
-  https://github.com/Mariana21hch/READMEgenerator
+  Place URL to repo
 
     Clone the repo:
 
-      git clone https://github.com/Mariana21hch/READMEgenerator
+      git clone URL to repo
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## Test:
 
-  N/A
+  test
 
 ---
 

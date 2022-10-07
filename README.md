@@ -43,6 +43,7 @@
 ![README_1](./images/README_snip_1.PNG)
 ![README_2](./images/README_snip_2.PNG)
 
+View demo: https://youtu.be/jNC1lFo7DNw
 ---
 
 ## Installation:
@@ -71,6 +72,9 @@
 ## Authors and Acknowlegements:
 
  https://drive.google.com/file/d/14-cH3FD4I-N8G_5YSVYspv0AsnqvWZ6-/view
+
+ https://www.youtube.com/watch?v=o8hkjz1TQuQ&ab_channel=MYENGINEERINGHACKS
+ 
 
 ---
 
